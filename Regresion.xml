@@ -1,0 +1,10 @@
+<suite name="Suite1" verbose="1">
+<test name="Regression1">
+    <classes>
+        <class name="Tests.RegisterTestCases"/>
+        <class name="Tests.LoginTestCases"/>
+        <class name="Tests.ProjectTestCases"/>
+
+    </classes>
+</test>
+</suite>
